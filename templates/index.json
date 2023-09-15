@@ -6,11 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-<<<<<<< HEAD
             "heading": "abc def",
-=======
-            "heading": "test nieuwe wefwefwefewe",
->>>>>>> 52a966b (test)
             "heading_size": "h0"
           }
         },
