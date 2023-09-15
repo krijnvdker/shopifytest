@@ -6,7 +6,11 @@
         "heading": {
           "type": "heading",
           "settings": {
+<<<<<<< HEAD
             "heading": "test remote",
+=======
+            "heading": "tititit",
+>>>>>>> cdb830b (test)
             "heading_size": "h0"
           }
         },
