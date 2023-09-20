@@ -1,0 +1,7 @@
+.test {
+     background: blue;
+     &__inner {
+          display: flex;
+          flex-direction: column;
+     }
+}
